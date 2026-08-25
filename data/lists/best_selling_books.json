@@ -1,0 +1,303 @@
+{
+  "id": "best_selling_books",
+  "title": "Best-Selling Books of All Time",
+  "subtitle": "Individually-sourced books only (excludes religious/political texts and series-wide totals). Wikipedia's editors note reliable figures thin out below the ~100-million-copy tier; ranks below that are tie-broken by source list order, not exact sales.",
+  "source": "Wikipedia, \"List of best-selling books\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_best-selling_books",
+  "curated_at": "2026-08-25",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "a_tale_of_two_cities",
+      "display": "A Tale of Two Cities",
+      "canonical": "a tale of two cities",
+      "aliases": [
+        "tale of two cities"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 2,
+      "id": "the_little_prince",
+      "display": "The Little Prince",
+      "canonical": "the little prince",
+      "aliases": [
+        "little prince",
+        "le petit prince"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 3,
+      "id": "the_alchemist",
+      "display": "The Alchemist",
+      "canonical": "the alchemist",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 4,
+      "id": "harry_potter_and_the_philosopher_s_stone",
+      "display": "Harry Potter and the Philosopher's Stone",
+      "canonical": "harry potter and the philosopher s stone",
+      "aliases": [
+        "harry potter 1",
+        "sorcerers stone",
+        "philosophers stone"
+      ],
+      "disambiguator": "first Harry Potter book, US title Sorcerer's Stone"
+    },
+    {
+      "rank": 5,
+      "id": "and_then_there_were_none",
+      "display": "And Then There Were None",
+      "canonical": "and then there were none",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 6,
+      "id": "dream_of_the_red_chamber",
+      "display": "Dream of the Red Chamber",
+      "canonical": "dream of the red chamber",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 7,
+      "id": "the_hobbit",
+      "display": "The Hobbit",
+      "canonical": "the hobbit",
+      "aliases": [
+        "the hobbit"
+      ],
+      "disambiguator": "not the Lord of the Rings trilogy"
+    },
+    {
+      "rank": 8,
+      "id": "alice_s_adventures_in_wonderland",
+      "display": "Alice's Adventures in Wonderland",
+      "canonical": "alice s adventures in wonderland",
+      "aliases": [
+        "alice in wonderland"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 9,
+      "id": "she_a_history_of_adventure",
+      "display": "She: A History of Adventure",
+      "canonical": "she a history of adventure",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 10,
+      "id": "the_da_vinci_code",
+      "display": "The Da Vinci Code",
+      "canonical": "the da vinci code",
+      "aliases": [
+        "da vinci code"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 11,
+      "id": "harry_potter_and_the_chamber_of_secrets",
+      "display": "Harry Potter and the Chamber of Secrets",
+      "canonical": "harry potter and the chamber of secrets",
+      "aliases": [
+        "harry potter 2",
+        "chamber of secrets"
+      ],
+      "disambiguator": "second Harry Potter book"
+    },
+    {
+      "rank": 12,
+      "id": "the_catcher_in_the_rye",
+      "display": "The Catcher in the Rye",
+      "canonical": "the catcher in the rye",
+      "aliases": [
+        "catcher in the rye"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 13,
+      "id": "harry_potter_and_the_prisoner_of_azkaban",
+      "display": "Harry Potter and the Prisoner of Azkaban",
+      "canonical": "harry potter and the prisoner of azkaban",
+      "aliases": [
+        "harry potter 3",
+        "prisoner of azkaban"
+      ],
+      "disambiguator": "third Harry Potter book"
+    },
+    {
+      "rank": 14,
+      "id": "harry_potter_and_the_goblet_of_fire",
+      "display": "Harry Potter and the Goblet of Fire",
+      "canonical": "harry potter and the goblet of fire",
+      "aliases": [
+        "harry potter 4",
+        "goblet of fire"
+      ],
+      "disambiguator": "fourth Harry Potter book"
+    },
+    {
+      "rank": 15,
+      "id": "harry_potter_and_the_order_of_the_phoenix",
+      "display": "Harry Potter and the Order of the Phoenix",
+      "canonical": "harry potter and the order of the phoenix",
+      "aliases": [
+        "harry potter 5",
+        "order of the phoenix"
+      ],
+      "disambiguator": "fifth Harry Potter book"
+    },
+    {
+      "rank": 16,
+      "id": "harry_potter_and_the_half_blood_prince",
+      "display": "Harry Potter and the Half-Blood Prince",
+      "canonical": "harry potter and the half blood prince",
+      "aliases": [
+        "harry potter 6",
+        "half blood prince"
+      ],
+      "disambiguator": "sixth Harry Potter book"
+    },
+    {
+      "rank": 17,
+      "id": "harry_potter_and_the_deathly_hallows",
+      "display": "Harry Potter and the Deathly Hallows",
+      "canonical": "harry potter and the deathly hallows",
+      "aliases": [
+        "harry potter 7",
+        "deathly hallows"
+      ],
+      "disambiguator": "seventh and final Harry Potter book"
+    },
+    {
+      "rank": 18,
+      "id": "sophie_s_world",
+      "display": "Sophie's World",
+      "canonical": "sophie s world",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 19,
+      "id": "the_bridges_of_madison_county",
+      "display": "The Bridges of Madison County",
+      "canonical": "the bridges of madison county",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 20,
+      "id": "one_hundred_years_of_solitude",
+      "display": "One Hundred Years of Solitude",
+      "canonical": "one hundred years of solitude",
+      "aliases": [
+        "100 years of solitude"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 21,
+      "id": "lolita",
+      "display": "Lolita",
+      "canonical": "lolita",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 22,
+      "id": "heidi",
+      "display": "Heidi",
+      "canonical": "heidi",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 23,
+      "id": "the_common_sense_book_of_baby_and_child_care",
+      "display": "The Common Sense Book of Baby and Child Care",
+      "canonical": "the common sense book of baby and child care",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 24,
+      "id": "anne_of_green_gables",
+      "display": "Anne of Green Gables",
+      "canonical": "anne of green gables",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 25,
+      "id": "black_beauty",
+      "display": "Black Beauty",
+      "canonical": "black beauty",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 26,
+      "id": "the_name_of_the_rose",
+      "display": "The Name of the Rose",
+      "canonical": "the name of the rose",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 27,
+      "id": "the_eagle_has_landed",
+      "display": "The Eagle Has Landed",
+      "canonical": "the eagle has landed",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 28,
+      "id": "watership_down",
+      "display": "Watership Down",
+      "canonical": "watership down",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 29,
+      "id": "the_hite_report",
+      "display": "The Hite Report",
+      "canonical": "the hite report",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 30,
+      "id": "charlotte_s_web",
+      "display": "Charlotte's Web",
+      "canonical": "charlotte s web",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 31,
+      "id": "the_ginger_man",
+      "display": "The Ginger Man",
+      "canonical": "the ginger man",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 32,
+      "id": "the_purpose_driven_life",
+      "display": "The Purpose Driven Life",
+      "canonical": "the purpose driven life",
+      "aliases": [],
+      "disambiguator": null
+    }
+  ]
+}

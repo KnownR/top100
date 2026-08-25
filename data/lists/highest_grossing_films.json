@@ -1,0 +1,962 @@
+{
+  "id": "highest_grossing_films",
+  "title": "Highest-Grossing Films of All Time",
+  "subtitle": "By worldwide theatrical box office, unadjusted for inflation",
+  "source": "Wikipedia, \"List of highest-grossing films\" (ranks 1-50); Box Office Mojo all-time worldwide lifetime grosses chart (ranks 51-100)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films ; https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW",
+  "curated_at": "2026-08-25",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "avatar",
+      "display": "Avatar",
+      "canonical": "avatar",
+      "aliases": [],
+      "disambiguator": "2009 film, not the sequels"
+    },
+    {
+      "rank": 2,
+      "id": "avengers_endgame",
+      "display": "Avengers: Endgame",
+      "canonical": "avengers endgame",
+      "aliases": [
+        "endgame"
+      ],
+      "disambiguator": "2019"
+    },
+    {
+      "rank": 3,
+      "id": "avatar_way_of_water",
+      "display": "Avatar: The Way of Water",
+      "canonical": "avatar the way of water",
+      "aliases": [
+        "way of water",
+        "avatar 2"
+      ],
+      "disambiguator": "2022 sequel"
+    },
+    {
+      "rank": 4,
+      "id": "titanic",
+      "display": "Titanic",
+      "canonical": "titanic",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 5,
+      "id": "spiderman_brand_new_day",
+      "display": "Spider-Man: Brand New Day",
+      "canonical": "spider man brand new day",
+      "aliases": [
+        "brand new day"
+      ],
+      "disambiguator": "2026"
+    },
+    {
+      "rank": 6,
+      "id": "ne_zha_2",
+      "display": "Ne Zha 2",
+      "canonical": "ne zha 2",
+      "aliases": [
+        "nezha 2"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 7,
+      "id": "star_wars_force_awakens",
+      "display": "Star Wars: The Force Awakens",
+      "canonical": "star wars the force awakens",
+      "aliases": [
+        "force awakens",
+        "episode 7",
+        "episode vii"
+      ],
+      "disambiguator": "2015, Episode VII"
+    },
+    {
+      "rank": 8,
+      "id": "avengers_infinity_war",
+      "display": "Avengers: Infinity War",
+      "canonical": "avengers infinity war",
+      "aliases": [
+        "infinity war"
+      ],
+      "disambiguator": "2018"
+    },
+    {
+      "rank": 9,
+      "id": "spiderman_no_way_home",
+      "display": "Spider-Man: No Way Home",
+      "canonical": "spider man no way home",
+      "aliases": [
+        "no way home"
+      ],
+      "disambiguator": "2021"
+    },
+    {
+      "rank": 10,
+      "id": "zootopia_2",
+      "display": "Zootopia 2",
+      "canonical": "zootopia 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 11,
+      "id": "inside_out_2",
+      "display": "Inside Out 2",
+      "canonical": "inside out 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 12,
+      "id": "jurassic_world",
+      "display": "Jurassic World",
+      "canonical": "jurassic world",
+      "aliases": [],
+      "disambiguator": "2015, first film in the reboot series"
+    },
+    {
+      "rank": 13,
+      "id": "lion_king_2019",
+      "display": "The Lion King",
+      "canonical": "the lion king",
+      "aliases": [
+        "lion king remake"
+      ],
+      "disambiguator": "2019 photorealistic remake, not the 1994 animated original"
+    },
+    {
+      "rank": 14,
+      "id": "avengers",
+      "display": "The Avengers",
+      "canonical": "the avengers",
+      "aliases": [
+        "avengers 1",
+        "first avengers"
+      ],
+      "disambiguator": "2012, first Avengers film"
+    },
+    {
+      "rank": 15,
+      "id": "furious_7",
+      "display": "Furious 7",
+      "canonical": "furious 7",
+      "aliases": [
+        "fast and furious 7",
+        "fast & furious 7"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 16,
+      "id": "top_gun_maverick",
+      "display": "Top Gun: Maverick",
+      "canonical": "top gun maverick",
+      "aliases": [
+        "maverick"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 17,
+      "id": "avatar_fire_and_ash",
+      "display": "Avatar: Fire and Ash",
+      "canonical": "avatar fire and ash",
+      "aliases": [
+        "fire and ash",
+        "avatar 3"
+      ],
+      "disambiguator": "2025, third Avatar film"
+    },
+    {
+      "rank": 18,
+      "id": "frozen_2",
+      "display": "Frozen 2",
+      "canonical": "frozen 2",
+      "aliases": [],
+      "disambiguator": "2019 sequel"
+    },
+    {
+      "rank": 19,
+      "id": "the_odyssey",
+      "display": "The Odyssey",
+      "canonical": "the odyssey",
+      "aliases": [],
+      "disambiguator": "2026 film"
+    },
+    {
+      "rank": 20,
+      "id": "barbie",
+      "display": "Barbie",
+      "canonical": "barbie",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 21,
+      "id": "avengers_age_of_ultron",
+      "display": "Avengers: Age of Ultron",
+      "canonical": "avengers age of ultron",
+      "aliases": [
+        "age of ultron"
+      ],
+      "disambiguator": "2015"
+    },
+    {
+      "rank": 22,
+      "id": "super_mario_bros_movie",
+      "display": "The Super Mario Bros. Movie",
+      "canonical": "the super mario bros movie",
+      "aliases": [
+        "mario movie"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 23,
+      "id": "black_panther",
+      "display": "Black Panther",
+      "canonical": "black panther",
+      "aliases": [],
+      "disambiguator": "2018, not Wakanda Forever"
+    },
+    {
+      "rank": 24,
+      "id": "harry_potter_deathly_hallows_2",
+      "display": "Harry Potter and the Deathly Hallows – Part 2",
+      "canonical": "harry potter and the deathly hallows part 2",
+      "aliases": [
+        "deathly hallows part 2",
+        "harry potter 8"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 25,
+      "id": "deadpool_wolverine",
+      "display": "Deadpool & Wolverine",
+      "canonical": "deadpool and wolverine",
+      "aliases": [
+        "deadpool 3"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 26,
+      "id": "star_wars_last_jedi",
+      "display": "Star Wars: The Last Jedi",
+      "canonical": "star wars the last jedi",
+      "aliases": [
+        "last jedi",
+        "episode 8",
+        "episode viii"
+      ],
+      "disambiguator": "2017, Episode VIII"
+    },
+    {
+      "rank": 27,
+      "id": "jurassic_world_fallen_kingdom",
+      "display": "Jurassic World: Fallen Kingdom",
+      "canonical": "jurassic world fallen kingdom",
+      "aliases": [
+        "fallen kingdom"
+      ],
+      "disambiguator": "2018, second film in the reboot series"
+    },
+    {
+      "rank": 28,
+      "id": "frozen",
+      "display": "Frozen",
+      "canonical": "frozen",
+      "aliases": [],
+      "disambiguator": "2013 original"
+    },
+    {
+      "rank": 29,
+      "id": "beauty_and_the_beast",
+      "display": "Beauty and the Beast",
+      "canonical": "beauty and the beast",
+      "aliases": [],
+      "disambiguator": "2017 live-action remake"
+    },
+    {
+      "rank": 30,
+      "id": "incredibles_2",
+      "display": "Incredibles 2",
+      "canonical": "incredibles 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 31,
+      "id": "fate_of_the_furious",
+      "display": "The Fate of the Furious",
+      "canonical": "the fate of the furious",
+      "aliases": [
+        "fast and furious 8",
+        "fast & furious 8",
+        "f8"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 32,
+      "id": "iron_man_3",
+      "display": "Iron Man 3",
+      "canonical": "iron man 3",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 33,
+      "id": "minions",
+      "display": "Minions",
+      "canonical": "minions",
+      "aliases": [],
+      "disambiguator": "2015, not Rise of Gru"
+    },
+    {
+      "rank": 34,
+      "id": "captain_america_civil_war",
+      "display": "Captain America: Civil War",
+      "canonical": "captain america civil war",
+      "aliases": [
+        "civil war"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 35,
+      "id": "aquaman",
+      "display": "Aquaman",
+      "canonical": "aquaman",
+      "aliases": [],
+      "disambiguator": "2018, not the sequel"
+    },
+    {
+      "rank": 36,
+      "id": "lotr_return_of_the_king",
+      "display": "The Lord of the Rings: The Return of the King",
+      "canonical": "the lord of the rings the return of the king",
+      "aliases": [
+        "return of the king",
+        "lotr 3",
+        "rotk"
+      ],
+      "disambiguator": "2003, third Lord of the Rings film"
+    },
+    {
+      "rank": 37,
+      "id": "spiderman_far_from_home",
+      "display": "Spider-Man: Far From Home",
+      "canonical": "spider man far from home",
+      "aliases": [
+        "far from home"
+      ],
+      "disambiguator": "2019, MCU, sequel to Homecoming"
+    },
+    {
+      "rank": 38,
+      "id": "toy_story_5",
+      "display": "Toy Story 5",
+      "canonical": "toy story 5",
+      "aliases": [],
+      "disambiguator": "2026"
+    },
+    {
+      "rank": 39,
+      "id": "captain_marvel",
+      "display": "Captain Marvel",
+      "canonical": "captain marvel",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 40,
+      "id": "transformers_dark_of_the_moon",
+      "display": "Transformers: Dark of the Moon",
+      "canonical": "transformers dark of the moon",
+      "aliases": [
+        "dark of the moon"
+      ],
+      "disambiguator": "2011, third Transformers film"
+    },
+    {
+      "rank": 41,
+      "id": "skyfall",
+      "display": "Skyfall",
+      "canonical": "skyfall",
+      "aliases": [],
+      "disambiguator": "James Bond, 2012"
+    },
+    {
+      "rank": 42,
+      "id": "transformers_age_of_extinction",
+      "display": "Transformers: Age of Extinction",
+      "canonical": "transformers age of extinction",
+      "aliases": [
+        "age of extinction"
+      ],
+      "disambiguator": "2014, fourth Transformers film"
+    },
+    {
+      "rank": 43,
+      "id": "dark_knight_rises",
+      "display": "The Dark Knight Rises",
+      "canonical": "the dark knight rises",
+      "aliases": [
+        "dark knight rises",
+        "batman 3"
+      ],
+      "disambiguator": "2012, not The Dark Knight (2008)"
+    },
+    {
+      "rank": 44,
+      "id": "joker",
+      "display": "Joker",
+      "canonical": "joker",
+      "aliases": [],
+      "disambiguator": "2019 original, not Joker: Folie à Deux"
+    },
+    {
+      "rank": 45,
+      "id": "star_wars_rise_of_skywalker",
+      "display": "Star Wars: The Rise of Skywalker",
+      "canonical": "star wars the rise of skywalker",
+      "aliases": [
+        "rise of skywalker",
+        "episode 9",
+        "episode ix"
+      ],
+      "disambiguator": "2019, Episode IX"
+    },
+    {
+      "rank": 46,
+      "id": "toy_story_4",
+      "display": "Toy Story 4",
+      "canonical": "toy story 4",
+      "aliases": [],
+      "disambiguator": "2019"
+    },
+    {
+      "rank": 47,
+      "id": "toy_story_3",
+      "display": "Toy Story 3",
+      "canonical": "toy story 3",
+      "aliases": [],
+      "disambiguator": "2010"
+    },
+    {
+      "rank": 48,
+      "id": "pirates_dead_mans_chest",
+      "display": "Pirates of the Caribbean: Dead Man's Chest",
+      "canonical": "pirates of the caribbean dead mans chest",
+      "aliases": [
+        "dead mans chest"
+      ],
+      "disambiguator": "2006, second Pirates film"
+    },
+    {
+      "rank": 49,
+      "id": "moana_2",
+      "display": "Moana 2",
+      "canonical": "moana 2",
+      "aliases": [],
+      "disambiguator": "2024"
+    },
+    {
+      "rank": 50,
+      "id": "rogue_one",
+      "display": "Rogue One: A Star Wars Story",
+      "canonical": "rogue one a star wars story",
+      "aliases": [
+        "rogue one"
+      ],
+      "disambiguator": "2016 standalone Star Wars anthology film"
+    },
+    {
+      "rank": 51,
+      "id": "aladdin_2019",
+      "display": "Aladdin",
+      "canonical": "aladdin",
+      "aliases": [],
+      "disambiguator": "2019 live-action remake"
+    },
+    {
+      "rank": 52,
+      "id": "pirates_on_stranger_tides",
+      "display": "Pirates of the Caribbean: On Stranger Tides",
+      "canonical": "pirates of the caribbean on stranger tides",
+      "aliases": [
+        "on stranger tides"
+      ],
+      "disambiguator": "2011, fourth Pirates film"
+    },
+    {
+      "rank": 53,
+      "id": "star_wars_phantom_menace",
+      "display": "Star Wars: Episode I – The Phantom Menace",
+      "canonical": "star wars the phantom menace",
+      "aliases": [
+        "phantom menace",
+        "episode 1",
+        "episode i"
+      ],
+      "disambiguator": "1999, Episode I"
+    },
+    {
+      "rank": 54,
+      "id": "lilo_and_stitch_2025",
+      "display": "Lilo & Stitch",
+      "canonical": "lilo and stitch",
+      "aliases": [],
+      "disambiguator": "2025 live-action remake"
+    },
+    {
+      "rank": 55,
+      "id": "despicable_me_3",
+      "display": "Despicable Me 3",
+      "canonical": "despicable me 3",
+      "aliases": [],
+      "disambiguator": "2017, third film"
+    },
+    {
+      "rank": 56,
+      "id": "hp_sorcerers_stone",
+      "display": "Harry Potter and the Sorcerer's Stone",
+      "canonical": "harry potter and the sorcerers stone",
+      "aliases": [
+        "philosophers stone",
+        "harry potter 1",
+        "sorcerers stone"
+      ],
+      "disambiguator": "2001, first Harry Potter film"
+    },
+    {
+      "rank": 57,
+      "id": "finding_dory",
+      "display": "Finding Dory",
+      "canonical": "finding dory",
+      "aliases": [],
+      "disambiguator": "not Finding Nemo"
+    },
+    {
+      "rank": 58,
+      "id": "zootopia",
+      "display": "Zootopia",
+      "canonical": "zootopia",
+      "aliases": [],
+      "disambiguator": "2016 original, not Zootopia 2"
+    },
+    {
+      "rank": 59,
+      "id": "alice_in_wonderland_2010",
+      "display": "Alice in Wonderland",
+      "canonical": "alice in wonderland",
+      "aliases": [],
+      "disambiguator": "2010 Tim Burton film"
+    },
+    {
+      "rank": 60,
+      "id": "hobbit_unexpected_journey",
+      "display": "The Hobbit: An Unexpected Journey",
+      "canonical": "the hobbit an unexpected journey",
+      "aliases": [
+        "unexpected journey",
+        "hobbit 1"
+      ],
+      "disambiguator": "2012, first Hobbit film"
+    },
+    {
+      "rank": 61,
+      "id": "michael_2026",
+      "display": "Michael",
+      "canonical": "michael",
+      "aliases": [],
+      "disambiguator": "2026 Michael Jackson biopic"
+    },
+    {
+      "rank": 62,
+      "id": "super_mario_galaxy_movie",
+      "display": "The Super Mario Galaxy Movie",
+      "canonical": "the super mario galaxy movie",
+      "aliases": [
+        "mario galaxy movie"
+      ],
+      "disambiguator": "2026, not The Super Mario Bros. Movie (2023)"
+    },
+    {
+      "rank": 63,
+      "id": "dark_knight",
+      "display": "The Dark Knight",
+      "canonical": "the dark knight",
+      "aliases": [
+        "batman 2",
+        "dark knight"
+      ],
+      "disambiguator": "2008, not The Dark Knight Rises"
+    },
+    {
+      "rank": 64,
+      "id": "jurassic_world_dominion",
+      "display": "Jurassic World: Dominion",
+      "canonical": "jurassic world dominion",
+      "aliases": [
+        "dominion"
+      ],
+      "disambiguator": "2022, third Jurassic World film"
+    },
+    {
+      "rank": 65,
+      "id": "lion_king_1994",
+      "display": "The Lion King",
+      "canonical": "the lion king",
+      "aliases": [
+        "lion king original",
+        "lion king animated"
+      ],
+      "disambiguator": "1994 animated original, not the 2019 remake"
+    },
+    {
+      "rank": 66,
+      "id": "oppenheimer",
+      "display": "Oppenheimer",
+      "canonical": "oppenheimer",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 67,
+      "id": "despicable_me_4",
+      "display": "Despicable Me 4",
+      "canonical": "despicable me 4",
+      "aliases": [],
+      "disambiguator": "2024, fourth film"
+    },
+    {
+      "rank": 68,
+      "id": "bohemian_rhapsody",
+      "display": "Bohemian Rhapsody",
+      "canonical": "bohemian rhapsody",
+      "aliases": [],
+      "disambiguator": "Queen biopic"
+    },
+    {
+      "rank": 69,
+      "id": "despicable_me_2",
+      "display": "Despicable Me 2",
+      "canonical": "despicable me 2",
+      "aliases": [],
+      "disambiguator": "2013, second film"
+    },
+    {
+      "rank": 70,
+      "id": "jungle_book_2016",
+      "display": "The Jungle Book",
+      "canonical": "the jungle book",
+      "aliases": [],
+      "disambiguator": "2016 live-action/CGI remake"
+    },
+    {
+      "rank": 71,
+      "id": "hobbit_battle_of_five_armies",
+      "display": "The Hobbit: The Battle of the Five Armies",
+      "canonical": "the hobbit the battle of the five armies",
+      "aliases": [
+        "battle of the five armies",
+        "hobbit 3"
+      ],
+      "disambiguator": "2014, third Hobbit film"
+    },
+    {
+      "rank": 72,
+      "id": "jumanji_welcome_to_the_jungle",
+      "display": "Jumanji: Welcome to the Jungle",
+      "canonical": "jumanji welcome to the jungle",
+      "aliases": [
+        "welcome to the jungle"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 73,
+      "id": "pirates_at_worlds_end",
+      "display": "Pirates of the Caribbean: At World's End",
+      "canonical": "pirates of the caribbean at worlds end",
+      "aliases": [
+        "at worlds end"
+      ],
+      "disambiguator": "2007, third Pirates film"
+    },
+    {
+      "rank": 74,
+      "id": "hp_deathly_hallows_1",
+      "display": "Harry Potter and the Deathly Hallows: Part 1",
+      "canonical": "harry potter and the deathly hallows part 1",
+      "aliases": [
+        "deathly hallows part 1",
+        "harry potter 7"
+      ],
+      "disambiguator": "2010, not Part 2"
+    },
+    {
+      "rank": 75,
+      "id": "minecraft_movie",
+      "display": "A Minecraft Movie",
+      "canonical": "a minecraft movie",
+      "aliases": [
+        "minecraft movie"
+      ],
+      "disambiguator": "2025 film, not the video game"
+    },
+    {
+      "rank": 76,
+      "id": "hobbit_desolation_of_smaug",
+      "display": "The Hobbit: The Desolation of Smaug",
+      "canonical": "the hobbit the desolation of smaug",
+      "aliases": [
+        "desolation of smaug",
+        "hobbit 2"
+      ],
+      "disambiguator": "2013, second Hobbit film"
+    },
+    {
+      "rank": 77,
+      "id": "doctor_strange_multiverse_of_madness",
+      "display": "Doctor Strange in the Multiverse of Madness",
+      "canonical": "doctor strange in the multiverse of madness",
+      "aliases": [
+        "multiverse of madness"
+      ],
+      "disambiguator": "2022, not the first Doctor Strange"
+    },
+    {
+      "rank": 78,
+      "id": "lotr_two_towers",
+      "display": "The Lord of the Rings: The Two Towers",
+      "canonical": "the lord of the rings the two towers",
+      "aliases": [
+        "two towers",
+        "lotr 2"
+      ],
+      "disambiguator": "2002, second Lord of the Rings film"
+    },
+    {
+      "rank": 79,
+      "id": "hp_order_of_phoenix",
+      "display": "Harry Potter and the Order of the Phoenix",
+      "canonical": "harry potter and the order of the phoenix",
+      "aliases": [
+        "order of the phoenix",
+        "harry potter 5"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 80,
+      "id": "finding_nemo",
+      "display": "Finding Nemo",
+      "canonical": "finding nemo",
+      "aliases": [],
+      "disambiguator": "not Finding Dory"
+    },
+    {
+      "rank": 81,
+      "id": "hp_half_blood_prince",
+      "display": "Harry Potter and the Half-Blood Prince",
+      "canonical": "harry potter and the half blood prince",
+      "aliases": [
+        "half blood prince",
+        "harry potter 6"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 82,
+      "id": "minions_rise_of_gru",
+      "display": "Minions: The Rise of Gru",
+      "canonical": "minions the rise of gru",
+      "aliases": [
+        "rise of gru"
+      ],
+      "disambiguator": "2022, not the original 2015 Minions"
+    },
+    {
+      "rank": 83,
+      "id": "shrek_2",
+      "display": "Shrek 2",
+      "canonical": "shrek 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 84,
+      "id": "star_wars_revenge_of_the_sith",
+      "display": "Star Wars: Episode III – Revenge of the Sith",
+      "canonical": "star wars revenge of the sith",
+      "aliases": [
+        "revenge of the sith",
+        "episode 3",
+        "episode iii"
+      ],
+      "disambiguator": "2005, Episode III"
+    },
+    {
+      "rank": 85,
+      "id": "battle_at_lake_changjin",
+      "display": "The Battle at Lake Changjin",
+      "canonical": "the battle at lake changjin",
+      "aliases": [],
+      "disambiguator": "Chinese war film"
+    },
+    {
+      "rank": 86,
+      "id": "hp_goblet_of_fire",
+      "display": "Harry Potter and the Goblet of Fire",
+      "canonical": "harry potter and the goblet of fire",
+      "aliases": [
+        "goblet of fire",
+        "harry potter 4"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 87,
+      "id": "lotr_fellowship_of_the_ring",
+      "display": "The Lord of the Rings: The Fellowship of the Ring",
+      "canonical": "the lord of the rings the fellowship of the ring",
+      "aliases": [
+        "fellowship of the ring",
+        "lotr 1"
+      ],
+      "disambiguator": "2001, first Lord of the Rings film"
+    },
+    {
+      "rank": 88,
+      "id": "twilight_breaking_dawn_2",
+      "display": "The Twilight Saga: Breaking Dawn – Part 2",
+      "canonical": "the twilight saga breaking dawn part 2",
+      "aliases": [
+        "breaking dawn part 2"
+      ],
+      "disambiguator": "2012, final Twilight film"
+    },
+    {
+      "rank": 89,
+      "id": "spiderman_3_raimi",
+      "display": "Spider-Man 3",
+      "canonical": "spider man 3",
+      "aliases": [],
+      "disambiguator": "2007 Sam Raimi trilogy film, not the MCU films"
+    },
+    {
+      "rank": 90,
+      "id": "ice_age_dawn_of_the_dinosaurs",
+      "display": "Ice Age: Dawn of the Dinosaurs",
+      "canonical": "ice age dawn of the dinosaurs",
+      "aliases": [
+        "dawn of the dinosaurs"
+      ],
+      "disambiguator": "2009, third Ice Age film"
+    },
+    {
+      "rank": 91,
+      "id": "hp_chamber_of_secrets",
+      "display": "Harry Potter and the Chamber of Secrets",
+      "canonical": "harry potter and the chamber of secrets",
+      "aliases": [
+        "chamber of secrets",
+        "harry potter 2"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 92,
+      "id": "spiderman_homecoming",
+      "display": "Spider-Man: Homecoming",
+      "canonical": "spider man homecoming",
+      "aliases": [
+        "homecoming"
+      ],
+      "disambiguator": "2017, MCU, first solo MCU Spider-Man film"
+    },
+    {
+      "rank": 93,
+      "id": "spectre",
+      "display": "Spectre",
+      "canonical": "spectre",
+      "aliases": [],
+      "disambiguator": "James Bond, 2015"
+    },
+    {
+      "rank": 94,
+      "id": "ice_age_continental_drift",
+      "display": "Ice Age: Continental Drift",
+      "canonical": "ice age continental drift",
+      "aliases": [
+        "continental drift"
+      ],
+      "disambiguator": "2012, fourth Ice Age film"
+    },
+    {
+      "rank": 95,
+      "id": "secret_life_of_pets",
+      "display": "The Secret Life of Pets",
+      "canonical": "the secret life of pets",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 96,
+      "id": "batman_v_superman",
+      "display": "Batman v Superman: Dawn of Justice",
+      "canonical": "batman v superman dawn of justice",
+      "aliases": [
+        "batman vs superman",
+        "dawn of justice"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 97,
+      "id": "wolf_warrior_2",
+      "display": "Wolf Warrior 2",
+      "canonical": "wolf warrior 2",
+      "aliases": [],
+      "disambiguator": "Chinese action film"
+    },
+    {
+      "rank": 98,
+      "id": "jurassic_world_rebirth",
+      "display": "Jurassic World: Rebirth",
+      "canonical": "jurassic world rebirth",
+      "aliases": [],
+      "disambiguator": "2025 film"
+    },
+    {
+      "rank": 99,
+      "id": "hunger_games_catching_fire",
+      "display": "The Hunger Games: Catching Fire",
+      "canonical": "the hunger games catching fire",
+      "aliases": [
+        "catching fire"
+      ],
+      "disambiguator": "2013, second Hunger Games film"
+    },
+    {
+      "rank": 100,
+      "id": "guardians_of_the_galaxy_vol_2",
+      "display": "Guardians of the Galaxy Vol. 2",
+      "canonical": "guardians of the galaxy vol 2",
+      "aliases": [
+        "gotg 2",
+        "guardians 2"
+      ],
+      "disambiguator": "2017, second Guardians film"
+    }
+  ]
+}

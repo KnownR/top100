@@ -1,0 +1,872 @@
+{
+  "id": "largest_companies_by_market_cap",
+  "title": "Largest Companies by Market Capitalization",
+  "subtitle": "By market capitalization in USD, live snapshot as of 2026-08-25",
+  "source": "companiesmarketcap.com",
+  "source_url": "https://companiesmarketcap.com/",
+  "curated_at": "2026-08-25",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "nvidia",
+      "display": "NVIDIA",
+      "canonical": "nvidia",
+      "aliases": [
+        "nvda"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 2,
+      "id": "apple",
+      "display": "Apple",
+      "canonical": "apple",
+      "aliases": [
+        "aapl",
+        "apple inc"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 3,
+      "id": "alphabet_google",
+      "display": "Alphabet (Google)",
+      "canonical": "alphabet google",
+      "aliases": [
+        "google",
+        "googl",
+        "goog",
+        "alphabet"
+      ],
+      "disambiguator": "parent company of Google"
+    },
+    {
+      "rank": 4,
+      "id": "microsoft",
+      "display": "Microsoft",
+      "canonical": "microsoft",
+      "aliases": [
+        "msft"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 5,
+      "id": "amazon",
+      "display": "Amazon",
+      "canonical": "amazon",
+      "aliases": [
+        "amzn"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 6,
+      "id": "tsmc",
+      "display": "TSMC",
+      "canonical": "tsmc",
+      "aliases": [
+        "taiwan semiconductor",
+        "taiwan semiconductor manufacturing company"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 7,
+      "id": "spacex",
+      "display": "SpaceX",
+      "canonical": "spacex",
+      "aliases": [
+        "space x"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 8,
+      "id": "broadcom",
+      "display": "Broadcom",
+      "canonical": "broadcom",
+      "aliases": [
+        "avgo"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 9,
+      "id": "saudi_aramco",
+      "display": "Saudi Aramco",
+      "canonical": "saudi aramco",
+      "aliases": [
+        "aramco"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 10,
+      "id": "meta_platforms",
+      "display": "Meta Platforms",
+      "canonical": "meta platforms",
+      "aliases": [
+        "meta",
+        "facebook",
+        "fb"
+      ],
+      "disambiguator": "parent company of Facebook and Instagram"
+    },
+    {
+      "rank": 11,
+      "id": "tesla",
+      "display": "Tesla",
+      "canonical": "tesla",
+      "aliases": [
+        "tsla"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 12,
+      "id": "samsung",
+      "display": "Samsung",
+      "canonical": "samsung",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 13,
+      "id": "eli_lilly",
+      "display": "Eli Lilly",
+      "canonical": "eli lilly",
+      "aliases": [
+        "lilly",
+        "lly"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 14,
+      "id": "berkshire_hathaway",
+      "display": "Berkshire Hathaway",
+      "canonical": "berkshire hathaway",
+      "aliases": [
+        "berkshire",
+        "brk"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 15,
+      "id": "micron_technology",
+      "display": "Micron Technology",
+      "canonical": "micron technology",
+      "aliases": [
+        "micron",
+        "mu"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 16,
+      "id": "jpmorgan_chase",
+      "display": "JPMorgan Chase",
+      "canonical": "jpmorgan chase",
+      "aliases": [
+        "jpmorgan",
+        "jp morgan",
+        "chase",
+        "jpm"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 17,
+      "id": "sk_hynix",
+      "display": "SK Hynix",
+      "canonical": "sk hynix",
+      "aliases": [
+        "hynix"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 18,
+      "id": "walmart",
+      "display": "Walmart",
+      "canonical": "walmart",
+      "aliases": [
+        "wmt"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 19,
+      "id": "amd",
+      "display": "AMD",
+      "canonical": "amd",
+      "aliases": [
+        "advanced micro devices"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 20,
+      "id": "visa",
+      "display": "Visa",
+      "canonical": "visa",
+      "aliases": [
+        "v"
+      ],
+      "disambiguator": "the payments company, not the travel document"
+    },
+    {
+      "rank": 21,
+      "id": "asml",
+      "display": "ASML",
+      "canonical": "asml",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 22,
+      "id": "exxon_mobil",
+      "display": "Exxon Mobil",
+      "canonical": "exxon mobil",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 23,
+      "id": "johnson_and_johnson",
+      "display": "Johnson & Johnson",
+      "canonical": "johnson and johnson",
+      "aliases": [
+        "jnj",
+        "johnson and johnson"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 24,
+      "id": "cxmt",
+      "display": "CXMT",
+      "canonical": "cxmt",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 25,
+      "id": "mastercard",
+      "display": "Mastercard",
+      "canonical": "mastercard",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 26,
+      "id": "tencent",
+      "display": "Tencent",
+      "canonical": "tencent",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 27,
+      "id": "abbvie",
+      "display": "AbbVie",
+      "canonical": "abbvie",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 28,
+      "id": "intel",
+      "display": "Intel",
+      "canonical": "intel",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 29,
+      "id": "cisco",
+      "display": "Cisco",
+      "canonical": "cisco",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 30,
+      "id": "bank_of_america",
+      "display": "Bank of America",
+      "canonical": "bank of america",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 31,
+      "id": "costco",
+      "display": "Costco",
+      "canonical": "costco",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 32,
+      "id": "palantir",
+      "display": "Palantir",
+      "canonical": "palantir",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 33,
+      "id": "oracle",
+      "display": "Oracle",
+      "canonical": "oracle",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 34,
+      "id": "china_construction_bank",
+      "display": "China Construction Bank",
+      "canonical": "china construction bank",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 35,
+      "id": "chevron",
+      "display": "Chevron",
+      "canonical": "chevron",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 36,
+      "id": "coca_cola",
+      "display": "Coca-Cola",
+      "canonical": "coca cola",
+      "aliases": [
+        "coke",
+        "coca cola"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 37,
+      "id": "lam_research",
+      "display": "Lam Research",
+      "canonical": "lam research",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 38,
+      "id": "merck",
+      "display": "Merck",
+      "canonical": "merck",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 39,
+      "id": "applied_materials",
+      "display": "Applied Materials",
+      "canonical": "applied materials",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 40,
+      "id": "roche",
+      "display": "Roche",
+      "canonical": "roche",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 41,
+      "id": "caterpillar",
+      "display": "Caterpillar",
+      "canonical": "caterpillar",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 42,
+      "id": "general_electric",
+      "display": "General Electric",
+      "canonical": "general electric",
+      "aliases": [
+        "ge"
+      ],
+      "disambiguator": "post spin-off GE (aviation/industrial), not GE Vernova"
+    },
+    {
+      "rank": 43,
+      "id": "agricultural_bank_of_china",
+      "display": "Agricultural Bank of China",
+      "canonical": "agricultural bank of china",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 44,
+      "id": "unitedhealth",
+      "display": "UnitedHealth",
+      "canonical": "unitedhealth",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 45,
+      "id": "hsbc",
+      "display": "HSBC",
+      "canonical": "hsbc",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 46,
+      "id": "netflix",
+      "display": "Netflix",
+      "canonical": "netflix",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 47,
+      "id": "icbc",
+      "display": "ICBC",
+      "canonical": "icbc",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 48,
+      "id": "procter_and_gamble",
+      "display": "Procter & Gamble",
+      "canonical": "procter and gamble",
+      "aliases": [
+        "p and g",
+        "pg"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 49,
+      "id": "morgan_stanley",
+      "display": "Morgan Stanley",
+      "canonical": "morgan stanley",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 50,
+      "id": "home_depot",
+      "display": "Home Depot",
+      "canonical": "home depot",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 51,
+      "id": "goldman_sachs",
+      "display": "Goldman Sachs",
+      "canonical": "goldman sachs",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 52,
+      "id": "novartis",
+      "display": "Novartis",
+      "canonical": "novartis",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 53,
+      "id": "philip_morris_international",
+      "display": "Philip Morris International",
+      "canonical": "philip morris international",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 54,
+      "id": "bank_of_china",
+      "display": "Bank of China",
+      "canonical": "bank of china",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 55,
+      "id": "dell",
+      "display": "Dell",
+      "canonical": "dell",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 56,
+      "id": "royal_bank_of_canada",
+      "display": "Royal Bank Of Canada",
+      "canonical": "royal bank of canada",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 57,
+      "id": "alibaba",
+      "display": "Alibaba",
+      "canonical": "alibaba",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 58,
+      "id": "rtx",
+      "display": "RTX",
+      "canonical": "rtx",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 59,
+      "id": "palo_alto_networks",
+      "display": "Palo Alto Networks",
+      "canonical": "palo alto networks",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 60,
+      "id": "astrazeneca",
+      "display": "AstraZeneca",
+      "canonical": "astrazeneca",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 61,
+      "id": "siemens",
+      "display": "Siemens",
+      "canonical": "siemens",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 62,
+      "id": "arm_holdings",
+      "display": "Arm Holdings",
+      "canonical": "arm holdings",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 63,
+      "id": "lvmh",
+      "display": "LVMH",
+      "canonical": "lvmh",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 64,
+      "id": "catl",
+      "display": "CATL",
+      "canonical": "catl",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 65,
+      "id": "nestle",
+      "display": "Nestle",
+      "canonical": "nestle",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 66,
+      "id": "wells_fargo",
+      "display": "Wells Fargo",
+      "canonical": "wells fargo",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 67,
+      "id": "shell",
+      "display": "Shell",
+      "canonical": "shell",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 68,
+      "id": "ge_vernova",
+      "display": "GE Vernova",
+      "canonical": "ge vernova",
+      "aliases": [],
+      "disambiguator": "energy business spun off from General Electric in 2024"
+    },
+    {
+      "rank": 69,
+      "id": "mitsubishi_ufj_financial",
+      "display": "Mitsubishi UFJ Financial",
+      "canonical": "mitsubishi ufj financial",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 70,
+      "id": "sap",
+      "display": "SAP",
+      "canonical": "sap",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 71,
+      "id": "bhp_group",
+      "display": "BHP Group",
+      "canonical": "bhp group",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 72,
+      "id": "kweichow_moutai",
+      "display": "Kweichow Moutai",
+      "canonical": "kweichow moutai",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 73,
+      "id": "l_oreal",
+      "display": "L'Oreal",
+      "canonical": "l oreal",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 74,
+      "id": "amgen",
+      "display": "Amgen",
+      "canonical": "amgen",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 75,
+      "id": "arista_networks",
+      "display": "Arista Networks",
+      "canonical": "arista networks",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 76,
+      "id": "kla",
+      "display": "KLA",
+      "canonical": "kla",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 77,
+      "id": "texas_instruments",
+      "display": "Texas Instruments",
+      "canonical": "texas instruments",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 78,
+      "id": "petrochina",
+      "display": "PetroChina",
+      "canonical": "petrochina",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 79,
+      "id": "thermo_fisher_scientific",
+      "display": "Thermo Fisher Scientific",
+      "canonical": "thermo fisher scientific",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 80,
+      "id": "toyota",
+      "display": "Toyota",
+      "canonical": "toyota",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 81,
+      "id": "american_express",
+      "display": "American Express",
+      "canonical": "american express",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 82,
+      "id": "linde",
+      "display": "Linde",
+      "canonical": "linde",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 83,
+      "id": "international_holding_company",
+      "display": "International Holding Company",
+      "canonical": "international holding company",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 84,
+      "id": "citigroup",
+      "display": "Citigroup",
+      "canonical": "citigroup",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 85,
+      "id": "china_mobile",
+      "display": "China Mobile",
+      "canonical": "china mobile",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 86,
+      "id": "ibm",
+      "display": "IBM",
+      "canonical": "ibm",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 87,
+      "id": "sandisk",
+      "display": "Sandisk",
+      "canonical": "sandisk",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 88,
+      "id": "marvell_technology",
+      "display": "Marvell Technology",
+      "canonical": "marvell technology",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 89,
+      "id": "novo_nordisk",
+      "display": "Novo Nordisk",
+      "canonical": "novo nordisk",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 90,
+      "id": "santander",
+      "display": "Santander",
+      "canonical": "santander",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 91,
+      "id": "inditex",
+      "display": "Inditex",
+      "canonical": "inditex",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 92,
+      "id": "verizon",
+      "display": "Verizon",
+      "canonical": "verizon",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 93,
+      "id": "abbott_laboratories",
+      "display": "Abbott Laboratories",
+      "canonical": "abbott laboratories",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 94,
+      "id": "allianz_se",
+      "display": "Allianz SE",
+      "canonical": "allianz se",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 95,
+      "id": "shopify",
+      "display": "Shopify",
+      "canonical": "shopify",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 96,
+      "id": "totalenergies",
+      "display": "TotalEnergies",
+      "canonical": "totalenergies",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 97,
+      "id": "toronto_dominion_bank",
+      "display": "Toronto Dominion Bank",
+      "canonical": "toronto dominion bank",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 98,
+      "id": "amphenol",
+      "display": "Amphenol",
+      "canonical": "amphenol",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 99,
+      "id": "t_mobile_us",
+      "display": "T-Mobile US",
+      "canonical": "t mobile us",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 100,
+      "id": "charles_schwab",
+      "display": "Charles Schwab",
+      "canonical": "charles schwab",
+      "aliases": [],
+      "disambiguator": null
+    }
+  ]
+}

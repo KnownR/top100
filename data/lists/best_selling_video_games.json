@@ -1,0 +1,500 @@
+{
+  "id": "best_selling_video_games",
+  "title": "Best-Selling Video Games of All Time",
+  "subtitle": "By units sold across all platforms; ties in the source broken by source list order",
+  "source": "Wikipedia, \"List of best-selling video games\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+  "curated_at": "2026-08-25",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "tetris",
+      "display": "Tetris",
+      "canonical": "tetris",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 2,
+      "id": "minecraft",
+      "display": "Minecraft",
+      "canonical": "minecraft",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 3,
+      "id": "gta5",
+      "display": "Grand Theft Auto V",
+      "canonical": "grand theft auto v",
+      "aliases": [
+        "gta 5",
+        "gtav",
+        "gta v"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 4,
+      "id": "red_dead_redemption_2",
+      "display": "Red Dead Redemption 2",
+      "canonical": "red dead redemption 2",
+      "aliases": [
+        "rdr2"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 5,
+      "id": "wii_sports",
+      "display": "Wii Sports",
+      "canonical": "wii sports",
+      "aliases": [],
+      "disambiguator": "original Wii Sports, not Wii Sports Resort"
+    },
+    {
+      "rank": 6,
+      "id": "mario_kart_8_deluxe",
+      "display": "Mario Kart 8 / Deluxe",
+      "canonical": "mario kart 8 deluxe",
+      "aliases": [
+        "mk8",
+        "mario kart 8"
+      ],
+      "disambiguator": "Mario Kart 8 / Deluxe (Wii U/Switch), not Mario Kart Wii"
+    },
+    {
+      "rank": 7,
+      "id": "pubg",
+      "display": "PUBG: Battlegrounds",
+      "canonical": "pubg battlegrounds",
+      "aliases": [
+        "pubg",
+        "playerunknowns battlegrounds"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 8,
+      "id": "terraria",
+      "display": "Terraria",
+      "canonical": "terraria",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 9,
+      "id": "skyrim",
+      "display": "The Elder Scrolls V: Skyrim",
+      "canonical": "the elder scrolls v skyrim",
+      "aliases": [
+        "skyrim",
+        "elder scrolls 5",
+        "elder scrolls v"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 10,
+      "id": "witcher_3",
+      "display": "The Witcher 3: Wild Hunt",
+      "canonical": "the witcher 3 wild hunt",
+      "aliases": [
+        "witcher 3"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 11,
+      "id": "super_mario_bros",
+      "display": "Super Mario Bros.",
+      "canonical": "super mario bros",
+      "aliases": [
+        "smb",
+        "mario bros"
+      ],
+      "disambiguator": "original 1985 arcade/NES game"
+    },
+    {
+      "rank": 12,
+      "id": "human_fall_flat",
+      "display": "Human: Fall Flat",
+      "canonical": "human fall flat",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 13,
+      "id": "animal_crossing_new_horizons",
+      "display": "Animal Crossing: New Horizons",
+      "canonical": "animal crossing new horizons",
+      "aliases": [
+        "acnh",
+        "new horizons"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 14,
+      "id": "the_sims",
+      "display": "The Sims",
+      "canonical": "the sims",
+      "aliases": [],
+      "disambiguator": "original game, not later sequels"
+    },
+    {
+      "rank": 15,
+      "id": "stardew_valley",
+      "display": "Stardew Valley",
+      "canonical": "stardew valley",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 16,
+      "id": "overwatch",
+      "display": "Overwatch",
+      "canonical": "overwatch",
+      "aliases": [],
+      "disambiguator": "original Overwatch, not Overwatch 2"
+    },
+    {
+      "rank": 17,
+      "id": "pokemon_red_blue_yellow",
+      "display": "Pokémon Red/Blue/Yellow",
+      "canonical": "pokemon red blue yellow",
+      "aliases": [
+        "pokemon red",
+        "pokemon blue",
+        "pokemon yellow"
+      ],
+      "disambiguator": "original Gen 1 games, not Gold/Silver/Crystal"
+    },
+    {
+      "rank": 18,
+      "id": "wii_fit",
+      "display": "Wii Fit/Plus",
+      "canonical": "wii fit plus",
+      "aliases": [
+        "wii fit"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 19,
+      "id": "cod_black_ops_3",
+      "display": "Call of Duty: Black Ops III",
+      "canonical": "call of duty black ops iii",
+      "aliases": [
+        "cod black ops 3",
+        "black ops 3",
+        "bo3"
+      ],
+      "disambiguator": "Black Ops III, not Modern Warfare"
+    },
+    {
+      "rank": 20,
+      "id": "cod_modern_warfare",
+      "display": "Call of Duty: Modern Warfare",
+      "canonical": "call of duty modern warfare",
+      "aliases": [
+        "cod mw",
+        "mw 2019",
+        "modern warfare"
+      ],
+      "disambiguator": "2019 reboot, not Black Ops III"
+    },
+    {
+      "rank": 21,
+      "id": "sonic_the_hedgehog",
+      "display": "Sonic the Hedgehog",
+      "canonical": "sonic the hedgehog",
+      "aliases": [
+        "sonic"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 22,
+      "id": "payday_2",
+      "display": "Payday 2",
+      "canonical": "payday 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 23,
+      "id": "cyberpunk_2077",
+      "display": "Cyberpunk 2077",
+      "canonical": "cyberpunk 2077",
+      "aliases": [
+        "cyberpunk"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 24,
+      "id": "hogwarts_legacy",
+      "display": "Hogwarts Legacy",
+      "canonical": "hogwarts legacy",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 25,
+      "id": "super_smash_bros_ultimate",
+      "display": "Super Smash Bros. Ultimate",
+      "canonical": "super smash bros ultimate",
+      "aliases": [
+        "smash ultimate",
+        "ssbu"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 26,
+      "id": "mario_kart_wii",
+      "display": "Mario Kart Wii",
+      "canonical": "mario kart wii",
+      "aliases": [],
+      "disambiguator": "Wii version, not Mario Kart 8"
+    },
+    {
+      "rank": 27,
+      "id": "zelda_botw",
+      "display": "The Legend of Zelda: Breath of the Wild",
+      "canonical": "the legend of zelda breath of the wild",
+      "aliases": [
+        "botw",
+        "zelda botw",
+        "breath of the wild"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 28,
+      "id": "fallout_4",
+      "display": "Fallout 4",
+      "canonical": "fallout 4",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 29,
+      "id": "wii_sports_resort",
+      "display": "Wii Sports Resort",
+      "canonical": "wii sports resort",
+      "aliases": [],
+      "disambiguator": "not the original Wii Sports"
+    },
+    {
+      "rank": 30,
+      "id": "borderlands_2",
+      "display": "Borderlands 2",
+      "canonical": "borderlands 2",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 31,
+      "id": "new_super_mario_bros",
+      "display": "New Super Mario Bros.",
+      "canonical": "new super mario bros",
+      "aliases": [
+        "nsmb"
+      ],
+      "disambiguator": "Nintendo DS original, not New Super Mario Bros. Wii"
+    },
+    {
+      "rank": 32,
+      "id": "super_mario_odyssey",
+      "display": "Super Mario Odyssey",
+      "canonical": "super mario odyssey",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 33,
+      "id": "monster_hunter_world",
+      "display": "Monster Hunter: World",
+      "canonical": "monster hunter world",
+      "aliases": [
+        "mh world",
+        "mhw"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 34,
+      "id": "new_super_mario_bros_wii",
+      "display": "New Super Mario Bros. Wii",
+      "canonical": "new super mario bros wii",
+      "aliases": [
+        "nsmb wii"
+      ],
+      "disambiguator": "Wii version, not the Nintendo DS original"
+    },
+    {
+      "rank": 35,
+      "id": "pokemon_gold_silver_crystal",
+      "display": "Pokémon Gold/Silver/Crystal",
+      "canonical": "pokemon gold silver crystal",
+      "aliases": [
+        "pokemon gold",
+        "pokemon silver",
+        "pokemon crystal"
+      ],
+      "disambiguator": "Gen 2 games, not Red/Blue/Yellow"
+    },
+    {
+      "rank": 36,
+      "id": "it_takes_two",
+      "display": "It Takes Two",
+      "canonical": "it takes two",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 37,
+      "id": "elden_ring",
+      "display": "Elden Ring",
+      "canonical": "elden ring",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 38,
+      "id": "pokemon_scarlet_violet",
+      "display": "Pokémon Scarlet/Violet",
+      "canonical": "pokemon scarlet violet",
+      "aliases": [
+        "pokemon scarlet",
+        "pokemon violet"
+      ],
+      "disambiguator": "Gen 9 games (Switch)"
+    },
+    {
+      "rank": 39,
+      "id": "duck_hunt",
+      "display": "Duck Hunt",
+      "canonical": "duck hunt",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 40,
+      "id": "wii_play",
+      "display": "Wii Play",
+      "canonical": "wii play",
+      "aliases": [],
+      "disambiguator": "not Wii Sports or Wii Fit"
+    },
+    {
+      "rank": 41,
+      "id": "black_myth_wukong",
+      "display": "Black Myth: Wukong",
+      "canonical": "black myth wukong",
+      "aliases": [
+        "wukong",
+        "black myth"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 42,
+      "id": "gta_san_andreas",
+      "display": "Grand Theft Auto: San Andreas",
+      "canonical": "grand theft auto san andreas",
+      "aliases": [
+        "san andreas",
+        "gta sa"
+      ],
+      "disambiguator": "San Andreas, not GTA IV or GTA V"
+    },
+    {
+      "rank": 43,
+      "id": "pokemon_sword_shield",
+      "display": "Pokémon Sword/Shield",
+      "canonical": "pokemon sword shield",
+      "aliases": [
+        "pokemon sword",
+        "pokemon shield"
+      ],
+      "disambiguator": "Gen 8 games (Switch)"
+    },
+    {
+      "rank": 44,
+      "id": "cod_modern_warfare_3",
+      "display": "Call of Duty: Modern Warfare 3",
+      "canonical": "call of duty modern warfare 3",
+      "aliases": [
+        "cod mw3",
+        "mw3"
+      ],
+      "disambiguator": "Modern Warfare 3, not the 2019 Modern Warfare reboot"
+    },
+    {
+      "rank": 45,
+      "id": "cod_black_ops",
+      "display": "Call of Duty: Black Ops",
+      "canonical": "call of duty black ops",
+      "aliases": [
+        "cod black ops",
+        "bo1"
+      ],
+      "disambiguator": "original Black Ops (2010), not Black Ops III"
+    },
+    {
+      "rank": 46,
+      "id": "pokemon_sun_moon_ultra",
+      "display": "Pokémon Sun/Moon/Ultra Sun/Ultra Moon",
+      "canonical": "pokemon sun moon ultra sun ultra moon",
+      "aliases": [
+        "pokemon sun",
+        "pokemon moon"
+      ],
+      "disambiguator": "Gen 7 games (3DS)"
+    },
+    {
+      "rank": 47,
+      "id": "garrys_mod",
+      "display": "Garry's Mod",
+      "canonical": "garrys mod",
+      "aliases": [
+        "gmod"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 48,
+      "id": "pokemon_diamond_pearl_platinum",
+      "display": "Pokémon Diamond/Pearl/Platinum",
+      "canonical": "pokemon diamond pearl platinum",
+      "aliases": [
+        "pokemon diamond",
+        "pokemon pearl",
+        "pokemon platinum"
+      ],
+      "disambiguator": "Gen 4 games (DS)"
+    },
+    {
+      "rank": 49,
+      "id": "gta4",
+      "display": "Grand Theft Auto IV",
+      "canonical": "grand theft auto iv",
+      "aliases": [
+        "gta 4",
+        "gta iv"
+      ],
+      "disambiguator": "GTA IV, not GTA V or San Andreas"
+    },
+    {
+      "rank": 50,
+      "id": "phasmophobia",
+      "display": "Phasmophobia",
+      "canonical": "phasmophobia",
+      "aliases": [],
+      "disambiguator": null
+    }
+  ]
+}

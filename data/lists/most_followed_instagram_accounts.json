@@ -1,0 +1,501 @@
+{
+  "id": "most_followed_instagram_accounts",
+  "title": "Most-Followed Instagram Accounts",
+  "subtitle": "By follower count, as of July 2026. Wikipedia's tracked list runs 50 accounts deep; ties broken by source list order.",
+  "source": "Wikipedia, \"List of most-followed Instagram accounts\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts",
+  "curated_at": "2026-08-25",
+  "entries": [
+    {
+      "rank": 1,
+      "id": "instagram_official",
+      "display": "Instagram",
+      "canonical": "instagram",
+      "aliases": [
+        "instagram official",
+        "ig"
+      ],
+      "disambiguator": "the official @instagram account itself, not a person"
+    },
+    {
+      "rank": 2,
+      "id": "cristiano_ronaldo",
+      "display": "Cristiano Ronaldo",
+      "canonical": "cristiano ronaldo",
+      "aliases": [
+        "cristiano",
+        "ronaldo",
+        "cr7"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 3,
+      "id": "lionel_messi",
+      "display": "Lionel Messi",
+      "canonical": "lionel messi",
+      "aliases": [
+        "messi",
+        "leo messi",
+        "leomessi"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 4,
+      "id": "selena_gomez",
+      "display": "Selena Gomez",
+      "canonical": "selena gomez",
+      "aliases": [
+        "selena"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 5,
+      "id": "dwayne_johnson",
+      "display": "Dwayne Johnson",
+      "canonical": "dwayne johnson",
+      "aliases": [
+        "the rock",
+        "therock",
+        "dj"
+      ],
+      "disambiguator": "actor/wrestler"
+    },
+    {
+      "rank": 6,
+      "id": "kylie_jenner",
+      "display": "Kylie Jenner",
+      "canonical": "kylie jenner",
+      "aliases": [
+        "kylie"
+      ],
+      "disambiguator": "not Kendall Jenner"
+    },
+    {
+      "rank": 7,
+      "id": "ariana_grande",
+      "display": "Ariana Grande",
+      "canonical": "ariana grande",
+      "aliases": [
+        "ariana"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 8,
+      "id": "kim_kardashian",
+      "display": "Kim Kardashian",
+      "canonical": "kim kardashian",
+      "aliases": [
+        "kim k",
+        "kim kardashian west"
+      ],
+      "disambiguator": "not Khloe or Kourtney Kardashian"
+    },
+    {
+      "rank": 9,
+      "id": "beyonce",
+      "display": "Beyonce",
+      "canonical": "beyonce",
+      "aliases": [
+        "beyonce knowles",
+        "queen bey"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 10,
+      "id": "khloe_kardashian",
+      "display": "Khloe Kardashian",
+      "canonical": "khloe kardashian",
+      "aliases": [
+        "khloe"
+      ],
+      "disambiguator": "not Kim or Kourtney Kardashian"
+    },
+    {
+      "rank": 11,
+      "id": "nike",
+      "display": "Nike",
+      "canonical": "nike",
+      "aliases": [],
+      "disambiguator": "the sportswear brand account"
+    },
+    {
+      "rank": 12,
+      "id": "justin_bieber",
+      "display": "Justin Bieber",
+      "canonical": "justin bieber",
+      "aliases": [
+        "bieber",
+        "jb"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 13,
+      "id": "kendall_jenner",
+      "display": "Kendall Jenner",
+      "canonical": "kendall jenner",
+      "aliases": [
+        "kendall"
+      ],
+      "disambiguator": "not Kylie Jenner"
+    },
+    {
+      "rank": 14,
+      "id": "taylor_swift",
+      "display": "Taylor Swift",
+      "canonical": "taylor swift",
+      "aliases": [
+        "taylor",
+        "ts"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 15,
+      "id": "virat_kohli",
+      "display": "Virat Kohli",
+      "canonical": "virat kohli",
+      "aliases": [
+        "kohli"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 16,
+      "id": "national_geographic",
+      "display": "National Geographic",
+      "canonical": "national geographic",
+      "aliases": [
+        "nat geo",
+        "natgeo"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 17,
+      "id": "neymar",
+      "display": "Neymar",
+      "canonical": "neymar",
+      "aliases": [
+        "neymar jr"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 18,
+      "id": "jennifer_lopez",
+      "display": "Jennifer Lopez",
+      "canonical": "jennifer lopez",
+      "aliases": [
+        "jlo",
+        "j lo"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 19,
+      "id": "kourtney_kardashian",
+      "display": "Kourtney Kardashian",
+      "canonical": "kourtney kardashian",
+      "aliases": [
+        "kourtney"
+      ],
+      "disambiguator": "not Kim or Khloe Kardashian"
+    },
+    {
+      "rank": 20,
+      "id": "miley_cyrus",
+      "display": "Miley Cyrus",
+      "canonical": "miley cyrus",
+      "aliases": [
+        "miley"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 21,
+      "id": "katy_perry",
+      "display": "Katy Perry",
+      "canonical": "katy perry",
+      "aliases": [
+        "katy"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 22,
+      "id": "real_madrid_cf",
+      "display": "Real Madrid CF",
+      "canonical": "real madrid cf",
+      "aliases": [
+        "real madrid",
+        "madrid"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 23,
+      "id": "zendaya",
+      "display": "Zendaya",
+      "canonical": "zendaya",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 24,
+      "id": "kevin_hart",
+      "display": "Kevin Hart",
+      "canonical": "kevin hart",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 25,
+      "id": "cardi_b",
+      "display": "Cardi B",
+      "canonical": "cardi b",
+      "aliases": [
+        "cardi"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 26,
+      "id": "lebron_james",
+      "display": "LeBron James",
+      "canonical": "lebron james",
+      "aliases": [
+        "lebron",
+        "king james"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 27,
+      "id": "demi_lovato",
+      "display": "Demi Lovato",
+      "canonical": "demi lovato",
+      "aliases": [
+        "demi"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 28,
+      "id": "fc_barcelona",
+      "display": "FC Barcelona",
+      "canonical": "fc barcelona",
+      "aliases": [
+        "barcelona",
+        "barca"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 29,
+      "id": "rihanna",
+      "display": "Rihanna",
+      "canonical": "rihanna",
+      "aliases": [
+        "riri"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 30,
+      "id": "chris_brown",
+      "display": "Chris Brown",
+      "canonical": "chris brown",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 31,
+      "id": "drake",
+      "display": "Drake",
+      "canonical": "drake",
+      "aliases": [
+        "champagnepapi"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 32,
+      "id": "kylian_mbappe",
+      "display": "Kylian Mbappe",
+      "canonical": "kylian mbappe",
+      "aliases": [
+        "mbappe"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 33,
+      "id": "ellen_degeneres",
+      "display": "Ellen DeGeneres",
+      "canonical": "ellen degeneres",
+      "aliases": [
+        "ellen"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 34,
+      "id": "billie_eilish",
+      "display": "Billie Eilish",
+      "canonical": "billie eilish",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 35,
+      "id": "uefa_champions_league",
+      "display": "UEFA Champions League",
+      "canonical": "uefa champions league",
+      "aliases": [
+        "champions league",
+        "ucl"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 36,
+      "id": "lisa_blackpink",
+      "display": "Lisa",
+      "canonical": "lisa",
+      "aliases": [
+        "lalisa",
+        "lisa blackpink"
+      ],
+      "disambiguator": "member of Blackpink"
+    },
+    {
+      "rank": 37,
+      "id": "narendra_modi",
+      "display": "Narendra Modi",
+      "canonical": "narendra modi",
+      "aliases": [
+        "modi"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 38,
+      "id": "nasa",
+      "display": "NASA",
+      "canonical": "nasa",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 39,
+      "id": "gal_gadot",
+      "display": "Gal Gadot",
+      "canonical": "gal gadot",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 40,
+      "id": "vin_diesel",
+      "display": "Vin Diesel",
+      "canonical": "vin diesel",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 41,
+      "id": "shakira",
+      "display": "Shakira",
+      "canonical": "shakira",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 42,
+      "id": "shraddha_kapoor",
+      "display": "Shraddha Kapoor",
+      "canonical": "shraddha kapoor",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 43,
+      "id": "priyanka_chopra",
+      "display": "Priyanka Chopra",
+      "canonical": "priyanka chopra",
+      "aliases": [
+        "priyanka chopra jonas"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 44,
+      "id": "jennie_blackpink",
+      "display": "Jennie",
+      "canonical": "jennie",
+      "aliases": [
+        "jennie kim"
+      ],
+      "disambiguator": "member of Blackpink"
+    },
+    {
+      "rank": 45,
+      "id": "dua_lipa",
+      "display": "Dua Lipa",
+      "canonical": "dua lipa",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 46,
+      "id": "nba",
+      "display": "NBA",
+      "canonical": "nba",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 47,
+      "id": "mrbeast",
+      "display": "MrBeast",
+      "canonical": "mrbeast",
+      "aliases": [
+        "mr beast",
+        "jimmy donaldson"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 48,
+      "id": "david_beckham",
+      "display": "David Beckham",
+      "canonical": "david beckham",
+      "aliases": [
+        "becks"
+      ],
+      "disambiguator": null
+    },
+    {
+      "rank": 49,
+      "id": "snoop_dogg",
+      "display": "Snoop Dogg",
+      "canonical": "snoop dogg",
+      "aliases": [],
+      "disambiguator": null
+    },
+    {
+      "rank": 50,
+      "id": "alia_bhatt",
+      "display": "Alia Bhatt",
+      "canonical": "alia bhatt",
+      "aliases": [],
+      "disambiguator": null
+    }
+  ]
+}
